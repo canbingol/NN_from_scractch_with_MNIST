@@ -5,7 +5,7 @@ About the Project
 The primary goal of this project is to recognize handwritten digits in the MNIST dataset through a custom-built neural network. This project uses only basic Python functionalities to construct the neural network, keeping library dependencies minimal.
 
 Features
-Data Preprocessing: The MNIST dataset is loaded and normalized for training.
-Feedforward: Data flows from the input layer to the output layer, applying activation functions at each stage.
-Backpropagation: The error function is calculated and used to update weights through backpropagation.
-Training and Testing: The model is trained over a defined number of epochs on the training set, and its accuracy is evaluated on the test set.
+* Data Preprocessing: The MNIST dataset is loaded and normalized for training.
+* Feedforward: Data flows from the input layer to the output layer, applying activation functions at each stage.
+* Backpropagation: The error function is calculated and used to update weights through backpropagation.
+* Training and Testing: The model is trained over a defined number of epochs on the training set, and its accuracy is evaluated on the test set.
