@@ -1,4 +1,4 @@
-#MNIST Two-Layer Neural Network from Scratch
+# MNIST Two-Layer Neural Network from Scratch
 This project is a fully from-scratch implementation of a two-layer neural network designed to recognize handwritten digits in the MNIST dataset, without using any pre-built neural network libraries. The Python code covers all the essential steps, from data loading and preprocessing to the forward propagation and backpropagation stages in the training loop.
 
 About the Project
